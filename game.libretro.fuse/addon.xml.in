@@ -7,7 +7,7 @@
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   llibrary_@PLATFORM@="@LIBRARY_FILENAME@">
+                   library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>spectrum</platforms>
 		<extensions>spec</extensions>
 		<supports_vfs>true</supports_vfs>
