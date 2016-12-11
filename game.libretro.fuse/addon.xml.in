@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">ZX Spectrum (Fuse) 1.1.1</summary>
+		<summary lang="en">ZX Spectrum (Fuse) 1.1.1 bdfcbf9</summary>
 		<description>Source: https://github.com/libretro/fuse-libretro
 
 Supported files: .tzx, .tap, .z80, .rzx, .scl, .trd</description>
