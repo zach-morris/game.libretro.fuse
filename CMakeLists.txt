@@ -10,3 +10,5 @@ set(FUSE_CUSTOM_BINARY ${FUSE_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} FUSE "")
+
+include(CPack)
