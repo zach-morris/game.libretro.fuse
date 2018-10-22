@@ -21,5 +21,6 @@
 Supported files: .tzx, .tap, .z80, .rzx, .scl, .trd</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.fuse</source>
 	</extension>
 </addon>
