@@ -1,1 +1,1 @@
-fuse https://github.com/libretro/fuse-libretro/archive/37c8a3c8c0306f7f2d6a356c41bae96fc656d983.zip
+fuse https://github.com/libretro/fuse-libretro/archive/ef603d165914afc3f54971d082e69adea187c8ec.zip
