@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-fuse (>= 1.1.1) | fuse (>= 1.1.1)
+               libretro-fuse (>= 1.6.0) | fuse (>= 1.6.0)
 Standards-Version: 3.9.8
 Section: libs
 
