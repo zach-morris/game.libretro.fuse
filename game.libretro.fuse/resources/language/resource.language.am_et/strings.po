@@ -21,93 +21,93 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "AY Stereo Separation"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Tape Fast Load"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Hide Video Border"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Joypad A button mapping"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Joypad B button mapping"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Joypad Down mapping"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Joypad L button mapping"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Joypad L2 button mapping"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Joypad L3 button mapping"
-msgstr ""
-
-msgctxt "#30010"
-msgid "Joypad Left mapping"
-msgstr ""
-
-msgctxt "#30011"
-msgid "Joypad R button mapping"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Joypad R2 button mapping"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Joypad R3 button mapping"
-msgstr ""
-
-msgctxt "#30014"
-msgid "Joypad Right mapping"
-msgstr ""
-
-msgctxt "#30015"
-msgid "Joypad Start mapping"
-msgstr ""
-
-msgctxt "#30016"
-msgid "Joypad Up mapping"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Joypad X button mapping"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Joypad Y button mapping"
-msgstr ""
-
-msgctxt "#30019"
-msgid "Time to Release Key in ms"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Transparent Keyboard Overlay"
-msgstr ""
-
-msgctxt "#30021"
-msgid "Tape Load Sound"
-msgstr ""
-
-msgctxt "#30022"
 msgid "Model (needs content load)"
 msgstr ""
 
-msgctxt "#30023"
+msgctxt "#30002"
+msgid "Hide Video Border"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Tape Fast Load"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Tape Load Sound"
+msgstr ""
+
+msgctxt "#30005"
 msgid "Speaker Type"
+msgstr ""
+
+msgctxt "#30006"
+msgid "AY Stereo Separation"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Transparent Keyboard Overlay"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Time to Release Key in ms"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Joypad Left mapping"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Joypad Right mapping"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Joypad Up mapping"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Joypad Down mapping"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Joypad Start mapping"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Joypad A button mapping"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Joypad B button mapping"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Joypad X button mapping"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Joypad Y button mapping"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Joypad L button mapping"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Joypad R button mapping"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Joypad L2 button mapping"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Joypad R2 button mapping"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Joypad L3 button mapping"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Joypad R3 button mapping"
 msgstr ""
