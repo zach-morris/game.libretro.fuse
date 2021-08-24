@@ -15,14 +15,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Supported files: .tzx, .tap, .z80, .rzx, .scl, .trd, .dsk</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.fuse</source>
 		<summary lang="en_GB">Sinclair - ZX Spectrum (Fuse) 1.6.0</summary>
-		<description lang="en_GB">Fuse (the Free Unix Spectrum Emulator) was originally a ZX Spectrum emulator for Unix. It has since been ported to Mac OS X, Windows, the Wii, AmigaOS and MorphOS.
-
-Supported files: .tzx, .tap, .z80, .rzx, .scl, .trd, .dsk</description>
+		<description lang="en_GB">Fuse (the Free Unix Spectrum Emulator) was originally a ZX Spectrum emulator for Unix. It has since been ported to Mac OS X, Windows, the Wii, AmigaOS and MorphOS.</description>
 	</extension>
 </addon>
