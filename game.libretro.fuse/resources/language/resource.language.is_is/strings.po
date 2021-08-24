@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
+msgctxt "Addon Summary"
+msgid "Sinclair - ZX Spectrum (Fuse) 1.6.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Fuse (the Free Unix Spectrum Emulator) was originally a ZX Spectrum emulator for Unix. It has since been ported to Mac OS X, Windows, the Wii, AmigaOS and MorphOS.
+
+Supported files: .tzx, .tap, .z80, .rzx, .scl, .trd, .dsk"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
