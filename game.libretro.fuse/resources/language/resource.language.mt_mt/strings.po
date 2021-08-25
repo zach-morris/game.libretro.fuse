@@ -21,7 +21,7 @@ msgid "Sinclair - ZX Spectrum (Fuse) 1.6.0"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Fuse (the Free Unix Spectrum Emulator) was originally a ZX Spectrum emulator for Unix. It has since been ported to Mac OS X, Windows, the Wii, AmigaOS and MorphOS.Supported files: .tzx, .tap, .z80, .rzx, .scl, .trd, .dsk"
+msgid "Fuse (the Free Unix Spectrum Emulator) was originally a ZX Spectrum emulator for Unix. It has since been ported to Mac OS X, Windows, the Wii, AmigaOS and MorphOS."
 msgstr ""
 
 msgctxt "#30000"
