@@ -34,7 +34,7 @@ msgid "Model (needs content load)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Hide Video Border"
+msgid "Size Video Border"
 msgstr ""
 
 msgctxt "#30003"
