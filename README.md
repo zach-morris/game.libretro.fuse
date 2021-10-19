@@ -4,9 +4,21 @@
 # Sinclair - ZX Spectrum (Fuse)
 
 ### Description
+
 Fuse (the Free Unix Spectrum Emulator) was originally a ZX Spectrum emulator for Unix. It has since been ported to Mac OS X, Windows, the Wii, AmigaOS and MorphOS.
 
 ### License
+
 GPLv3
 
+### Icon
 
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
